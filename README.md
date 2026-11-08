@@ -31,8 +31,18 @@ The investigation examined storage conditions relevant to the feeder's food comp
 | Measurement | What was recorded |
 | --- | --- |
 | Loss on drying (LoD) | Mass lost during heating, used as a moisture-related indicator |
-| Thin-layer chromatography (TLC) | Iodine-stained signals from lipid-soluble extracts, measured with ImageJ |
+| Thin-layer chromatography (TLC) | Iodine-stained signals from hexane extracts, measured with ImageJ |
 | pH | Measurements of aqueous cat-food extracts |
+
+### Experiment photos
+
+<a href="assets/storage-experiment-containers.jpg"><img src="assets/storage-experiment-containers.jpg" alt="Lidded containers arranged for the cat-food storage experiment" width="400"></a>
+
+*Containers used in the storage experiment.*
+
+<a href="assets/cat-food-hexane-extraction.jpg"><img src="assets/cat-food-hexane-extraction.jpg" alt="Test tubes holding cat-food samples during hexane extraction" width="520"></a>
+
+*Cat-food samples during hexane extraction before thin-layer chromatography. The TLC plate was developed using a mixture of hexane and ethyl acetate.*
 
 ### Observations reported in the tables
 
