@@ -35,7 +35,7 @@ Loss on drying can include volatile substances besides water. I used TLC spot in
 
 ## Prototype and mechanism
 
-I assembled the CAD components, resolved part interference, and worked on the motion of the internal motor and gears. I created the simulations below to show how the assembly and underside mechanism move.
+I created CAD models of the motor and gears, assembled the components, and resolved interference between parts. I then simulated how the parts move together, including the drive mechanism on the underside.
 
 | Assembly motion | Underside mechanism |
 | --- | --- |
