@@ -16,12 +16,14 @@ I compared plastic and aluminum foil containers with 0, 1, 2, or 4 g of silica g
 
 ### Results
 
-- **Loss on drying.** On Day 14, the silica gel groups lost less mass during drying than their respective controls. On Day 21, the difference persisted in the foil groups. The differences in the plastic groups were inconclusive.
+- **Loss on drying.** On Day 14, the silica gel groups lost less mass during drying than their respective controls. On Day 21, the difference persisted in the foil groups. The foil group with 4 g of silica gel averaged 4.50% loss on drying, compared with 7.60% for the foil control. The differences in the plastic groups were inconclusive.
 - **TLC.** On Day 21, the 1 g and 2 g foil groups had higher spot intensities than the foil control. The 4 g comparison and the matched foil-versus-plastic comparisons were inconclusive.
 
-Loss on drying can include volatile substances besides water. I used TLC spot intensity as a relative signal from the extracts and compared pH readings within each day because of calibration limitations.
+![Grouped bar chart of loss on drying by container type and silica gel amount on Days 0, 14, and 21](assets/loss-on-drying.svg)
 
-*The final TLC measurements were taken on Day 21. Some references in the archived report label that test Day 20.*
+*Bars show group means. Error bars show one sample standard deviation above and below each mean, calculated from the weighing records (three independent containers per treatment and day). See Table 1 in the [full report](reports/cat-food-storage-experiment.pdf).*
+
+Loss on drying can include volatile substances besides water. I used TLC spot intensity as a relative signal from the extracts and compared pH readings within each day because of calibration limitations.
 
 ### Experiment photos
 
