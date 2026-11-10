@@ -1,6 +1,6 @@
 # Cat Food Storage Study and Automatic Feeder
 
-How do container type and silica gel affect dry cat food while it waits to be dispensed? I designed and ran a study with 24 containers and wrote the report. I tracked loss on drying, pH, and a relative signal from lipid-soluble extracts to understand what changes during storage. The question grew out of building an automatic feeder with Shuoqi Yang and Shaoxuan Xiong.
+How do container type and silica gel affect dry cat food while it waits to be dispensed? I designed and ran a study with 24 containers and wrote the report. I tracked loss on drying, pH, and an iodine spot signal from lipid-soluble extracts to understand what changes during storage. The question grew out of building an automatic feeder with Shuoqi Yang and Shaoxuan Xiong.
 
 [Full experiment report (PDF)](reports/cat-food-storage-experiment.pdf) · [Results](#results) · [Experiment photos](#experiment-photos) · [Feeder prototype and CAD](#prototype-and-mechanism)
 
@@ -11,20 +11,20 @@ I compared plastic and aluminum foil containers with 0, 1, 2, or 4 g of silica g
 | Measurement | What I recorded |
 | --- | --- |
 | Loss on drying (LoD) | Mass lost during heating, used as a moisture-related indicator |
-| Thin-layer chromatography (TLC) | Iodine-stained signals from hexane extracts, measured with ImageJ |
+| Iodine spot test | I stained spots from hexane extracts with iodine and measured their integrated intensity with ImageJ |
 | pH | Measurements of aqueous cat-food extracts |
 
 ### Results
 
-- **Loss on drying.** On Day 14, the silica gel groups lost less mass during drying than their respective controls. On Day 21, the difference persisted in the foil groups. The foil group with 4 g of silica gel averaged 4.50% loss on drying, compared with 7.60% for the foil control. The differences in the plastic groups were inconclusive.
-- **TLC.** On Day 21, the 1 g and 2 g foil groups had higher spot intensities than the foil control. The 4 g comparison and the matched foil-versus-plastic comparisons were inconclusive.
-- **pH.** The foil groups had slightly lower pH than the plastic groups on Days 14 and 21. I compared readings within each day because of calibration limitations.
+- **Loss on drying.** On Day 14, all silica gel groups lost less mass during drying than their respective controls. By Day 21, the difference persisted only in foil. Mean loss on drying in foil was **7.60%, 6.70%, 6.67%, and 4.50%** at 0, 1, 2, and 4 g of silica gel. Without silica gel, Day 21 loss on drying was 7.60% in foil and 7.13% in plastic.
+- **Iodine spot signal.** On Day 21, the 1 g and 2 g foil groups had higher spot intensities than the foil control. The differences from the plastic control were inconclusive. The correlation between loss on drying and spot intensity across the eight treatment means was also inconclusive (Pearson r = -0.59, p = 0.126).
+- **pH.** On Day 21, foil groups had significantly lower pH than their matched plastic groups at 0 g and 4 g. Because of calibration limitations, I compared readings within each day.
 
 ![Grouped bar chart of loss on drying by container type and silica gel amount on Days 0, 14, and 21](assets/loss-on-drying.svg)
 
 *Bars show group means. Error bars show one sample standard deviation above and below each mean, calculated from the weighing records (three independent containers per treatment and day). See Table 1 in the [full report](reports/cat-food-storage-experiment.pdf).*
 
-Loss on drying can include volatile substances besides water. I used TLC spot intensity as a relative signal from the extracts. These preliminary results guide which container and desiccant combinations I would test next in the feeder's storage compartment.
+Loss on drying can include volatile substances besides water. The iodine spot test gives a relative signal from the extracts. Next, I would test foil with silica gel in the feeder's storage compartment under different humidity conditions.
 
 ### Experiment photos
 
@@ -34,7 +34,7 @@ Loss on drying can include volatile substances besides water. I used TLC spot in
 
 <a href="assets/cat-food-hexane-extraction.jpg"><img src="assets/cat-food-hexane-extraction.jpg" alt="Test tubes holding cat-food samples during hexane extraction" width="480"></a>
 
-*Cat-food samples during hexane extraction before TLC. The plate was developed with a mixture of hexane and ethyl acetate.*
+*Cat-food samples during hexane extraction for the iodine spot test. I spotted the extracts onto a prewashed plate, stained the spots with iodine, and photographed them for ImageJ analysis.*
 
 ## Prototype and mechanism
 
