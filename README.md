@@ -20,9 +20,9 @@ I compared plastic and aluminum foil containers with 0, 1, 2, or 4 g of silica g
 - **Iodine spot signal.** On Day 21, the 1 g and 2 g foil groups had higher spot intensities than the foil control. The differences from the plastic control were inconclusive. The correlation between loss on drying and spot intensity across the eight treatment means was also inconclusive (Pearson r = -0.59, p = 0.126).
 - **pH.** On Day 21, foil groups had significantly lower pH than their matched plastic groups at 0 g and 4 g. Because of calibration limitations, I compared readings within each day.
 
-![Grouped bar chart of loss on drying by container type and silica gel amount on Days 14 and 21](assets/loss-on-drying.svg)
+![Grouped bar chart of loss on drying by container type and silica gel amount on Days 0, 14, and 21](assets/loss-on-drying.svg)
 
-*Bars show group means with one sample standard deviation above and below each mean (three independent containers per treatment and day). Table 1 in the [full report](reports/cat-food-storage-experiment.pdf) also lists the Day 0 means.*
+*Bars show group means with one sample standard deviation above and below each mean, calculated from the weighing records for three independent containers per treatment and day. See Table 1 in the [full report](reports/cat-food-storage-experiment.pdf).*
 
 Loss on drying can include volatile substances besides water. The iodine spot test gives a relative signal from the extracts. Next, I would test foil with silica gel in the feeder's storage compartment under different humidity conditions.
 
