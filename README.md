@@ -2,7 +2,7 @@
 
 How do container type and silica gel affect dry cat food while it waits to be dispensed? I designed and ran a study with 24 containers and wrote the report. I tracked loss on drying, pH, and an iodine spot signal from lipid-soluble extracts to understand what changes during storage. The question grew out of building an automatic feeder with Shuoqi Yang and Shaoxuan Xiong.
 
-[Full experiment report (PDF)](reports/cat-food-storage-experiment.pdf) · [Results](#results) · [Experiment photos](#experiment-photos) · [Feeder prototype and CAD](#prototype-and-mechanism)
+[Full experiment report (PDF)](reports/cat-food-storage-experiment.pdf) · [Report data tables (CSV)](reports/cat-food-storage-report-tables.csv) · [Results](#results) · [Experiment photos](#experiment-photos) · [Feeder prototype and CAD](#prototype-and-mechanism)
 
 ## Food chemistry and preservation
 

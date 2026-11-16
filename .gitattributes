@@ -3,3 +3,4 @@
 *.gif binary
 *.mp4 binary
 *.stl binary
+reports/cat-food-storage-report-tables.csv -text
