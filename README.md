@@ -43,7 +43,9 @@ Silica gel reduced loss on drying in both container types on Day 14. By Day 21, 
 
 **CAD assembly and motion.** I helped build the prototype and modeled the motor and gears for the feeder's underside drive. In CAD, I troubleshot assembly errors and part interference by working through which parts needed to move together and in what sequence. I resolved motion simulation issues and created the two animations above to show the complete assembly and the gear-driven mechanism underneath.
 
-Shuoqi Yang led the mechanical design and fabrication and revised the outlet and guide path. Shaoxuan Xiong developed the motor controls and tested two motor configurations. [Team prototype and test videos](https://github.com/jw3422951-ops/automatic-cat-feeder-fork#project-videos) · [Mechanical design and full STEP assembly](https://github.com/jw3422951-ops/automatic-cat-feeder-fork/blob/main/docs/mechanical-design.md) · [Motor and automation](https://github.com/jw3422951-ops/automatic-cat-feeder-fork/blob/main/docs/motor-and-automation.md)
+Shuoqi Yang led the mechanical design and fabrication and revised the outlet and guide path. Shaoxuan Xiong developed the motor controls and tested two motor configurations.
+
+[Team prototype and test videos](https://github.com/jw3422951-ops/automatic-cat-feeder-fork#project-videos) · [Mechanical design and full STEP assembly](https://github.com/jw3422951-ops/automatic-cat-feeder-fork/blob/main/docs/mechanical-design.md) · [Motor and automation](https://github.com/jw3422951-ops/automatic-cat-feeder-fork/blob/main/docs/motor-and-automation.md) · [Shuoqi Yang’s original feeder repository](https://github.com/147y111/Automatic-Cat-Feeder)
 
 ## Experiment photos
 
