@@ -1,6 +1,6 @@
 # Cat Food Storage Study and Automatic Feeder
 
-How do container type and silica gel affect dry cat food while it waits to be dispensed? I compared plastic and aluminum foil containers with 0, 1, 2, or 4 g of silica gel. Each of the eight groups had three independent containers with 30 g of cat food each. The question grew out of building an automatic feeder with Shuoqi Yang and Shaoxuan Xiong.
+How do container type and silica gel affect dry cat food while it waits to be dispensed? I compared plastic and aluminum foil containers with 0, 1, 2, or 4 g of silica gel. Each of the eight groups had three independent containers with 30 g of cat food each. The question grew out of building an automatic feeder at **Alba Studio** with Shuoqi Yang and Shaoxuan Xiong.
 
 [Full experiment report (PDF)](reports/cat-food-storage-experiment.pdf) · [Report data tables (CSV)](reports/cat-food-storage-report-tables.csv) · [Results and chart](#results) · [Experiment photos](#experiment-photos) · [Feeder prototype and CAD](#prototype-and-mechanism)
 
@@ -61,5 +61,22 @@ Shuoqi Yang led the mechanical design and fabrication and revised the outlet and
     </td>
   </tr>
 </table>
+
+## Original measurement records
+
+These previews show the original ImageJ readings from the iodine spot test and the measured weights used to calculate loss on drying. Click a table to enlarge it.
+
+<table>
+  <tr>
+    <td><a href="assets/iodine-spot-day-14.svg"><img src="assets/iodine-spot-day-14.svg" width="420" alt="Day 14 iodine spot test readings for six lanes across eight treatments"></a></td>
+    <td><a href="assets/iodine-spot-day-21.svg"><img src="assets/iodine-spot-day-21.svg" width="420" alt="Day 21 iodine spot test readings for six lanes across eight treatments"></a></td>
+  </tr>
+  <tr>
+    <td><a href="assets/weighing-records-day-0.svg"><img src="assets/weighing-records-day-0.svg" width="420" alt="Day 0 weighing records and calculated loss on drying for the first six samples"></a></td>
+    <td><a href="assets/weighing-records-day-21.svg"><img src="assets/weighing-records-day-21.svg" width="420" alt="Day 21 weighing records and calculated loss on drying for the first six samples"></a></td>
+  </tr>
+</table>
+
+[Full iodine spot measurements (Google Sheets)](https://docs.google.com/spreadsheets/d/159e3inH_bEfrDYJ4Zq9jSbNUw5qjkepaGXX1PhiCsaQ/edit#gid=1075512304) · [Full weighing records (Google Sheets)](https://docs.google.com/spreadsheets/d/159e3inH_bEfrDYJ4Zq9jSbNUw5qjkepaGXX1PhiCsaQ/edit#gid=451099003)
 
 [Back to my GitHub profile](https://github.com/jw3422951-ops)

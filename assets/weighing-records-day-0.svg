@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="851" height="326" viewBox="0 0 851 326" role="img" aria-labelledby="title desc">
+  <title id="title">Loss on drying · Day 0</title>
+  <desc id="desc">Raw weighing record excerpt · First six plastic-container samples</desc>
+  <rect width="851" height="326" fill="#fff"/>
+  <rect width="851" height="5" fill="#217346"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#182b22">
+    <text x="20" y="43" font-size="28" font-weight="700">Loss on drying · Day 0</text>
+    <text x="20" y="68" font-size="16" fill="#41534a">Raw weighing record excerpt · First six plastic-container samples</text>
+    <rect x="20" y="88" width="119" height="29" fill="#dceee3" stroke="#cad8ce"/>
+    <text x="79.5" y="108" font-size="16" text-anchor="middle" font-weight="700">Sample ID</text>
+    <rect x="139" y="88" width="116" height="29" fill="#dceee3" stroke="#cad8ce"/>
+    <text x="197" y="108" font-size="16" text-anchor="middle" font-weight="700">Silica gel (g)</text>
+    <rect x="255" y="88" width="93" height="29" fill="#dceee3" stroke="#cad8ce"/>
+    <text x="301.5" y="108" font-size="16" text-anchor="middle" font-weight="700">M0 (g)</text>
+    <rect x="348" y="88" width="93" height="29" fill="#dceee3" stroke="#cad8ce"/>
+    <text x="394.5" y="108" font-size="16" text-anchor="middle" font-weight="700">M1 (g)</text>
+    <rect x="441" y="88" width="93" height="29" fill="#dceee3" stroke="#cad8ce"/>
+    <text x="487.5" y="108" font-size="16" text-anchor="middle" font-weight="700">M2 (g)</text>
+    <rect x="534" y="88" width="103" height="29" fill="#dceee3" stroke="#cad8ce"/>
+    <text x="585.5" y="108" font-size="16" text-anchor="middle" font-weight="700">Before (g)</text>
+    <rect x="637" y="88" width="103" height="29" fill="#dceee3" stroke="#cad8ce"/>
+    <text x="688.5" y="108" font-size="16" text-anchor="middle" font-weight="700">After (g)</text>
+    <rect x="740" y="88" width="91" height="29" fill="#dceee3" stroke="#cad8ce"/>
+    <text x="785.5" y="108" font-size="16" text-anchor="middle" font-weight="700">LoD (%)</text>
+    <rect x="20" y="117" width="119" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="79.5" y="137" font-size="16" text-anchor="middle">P-0-R1</text>
+    <rect x="139" y="117" width="116" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="197" y="137" font-size="16" text-anchor="middle">0</text>
+    <rect x="255" y="117" width="93" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="301.5" y="137" font-size="16" text-anchor="middle">1</text>
+    <rect x="348" y="117" width="93" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="394.5" y="137" font-size="16" text-anchor="middle">2</text>
+    <rect x="441" y="117" width="93" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="487.5" y="137" font-size="16" text-anchor="middle">1.96</text>
+    <rect x="534" y="117" width="103" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="585.5" y="137" font-size="16" text-anchor="middle">1</text>
+    <rect x="637" y="117" width="103" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="688.5" y="137" font-size="16" text-anchor="middle">0.96</text>
+    <rect x="740" y="117" width="91" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="785.5" y="137" font-size="16" text-anchor="middle">4.00</text>
+    <rect x="20" y="146" width="119" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="79.5" y="166" font-size="16" text-anchor="middle">P-0-R2</text>
+    <rect x="139" y="146" width="116" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="197" y="166" font-size="16" text-anchor="middle">0</text>
+    <rect x="255" y="146" width="93" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="301.5" y="166" font-size="16" text-anchor="middle">1</text>
+    <rect x="348" y="146" width="93" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="394.5" y="166" font-size="16" text-anchor="middle">2</text>
+    <rect x="441" y="146" width="93" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="487.5" y="166" font-size="16" text-anchor="middle">1.945</text>
+    <rect x="534" y="146" width="103" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="585.5" y="166" font-size="16" text-anchor="middle">1</text>
+    <rect x="637" y="146" width="103" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="688.5" y="166" font-size="16" text-anchor="middle">0.945</text>
+    <rect x="740" y="146" width="91" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="785.5" y="166" font-size="16" text-anchor="middle">5.50</text>
+    <rect x="20" y="175" width="119" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="79.5" y="195" font-size="16" text-anchor="middle">P-0-R3</text>
+    <rect x="139" y="175" width="116" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="197" y="195" font-size="16" text-anchor="middle">0</text>
+    <rect x="255" y="175" width="93" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="301.5" y="195" font-size="16" text-anchor="middle">1</text>
+    <rect x="348" y="175" width="93" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="394.5" y="195" font-size="16" text-anchor="middle">2</text>
+    <rect x="441" y="175" width="93" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="487.5" y="195" font-size="16" text-anchor="middle">1.96</text>
+    <rect x="534" y="175" width="103" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="585.5" y="195" font-size="16" text-anchor="middle">1</text>
+    <rect x="637" y="175" width="103" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="688.5" y="195" font-size="16" text-anchor="middle">0.96</text>
+    <rect x="740" y="175" width="91" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="785.5" y="195" font-size="16" text-anchor="middle">4.00</text>
+    <rect x="20" y="204" width="119" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="79.5" y="224" font-size="16" text-anchor="middle">P-1-R1</text>
+    <rect x="139" y="204" width="116" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="197" y="224" font-size="16" text-anchor="middle">1</text>
+    <rect x="255" y="204" width="93" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="301.5" y="224" font-size="16" text-anchor="middle">1</text>
+    <rect x="348" y="204" width="93" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="394.5" y="224" font-size="16" text-anchor="middle">2</text>
+    <rect x="441" y="204" width="93" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="487.5" y="224" font-size="16" text-anchor="middle">1.939</text>
+    <rect x="534" y="204" width="103" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="585.5" y="224" font-size="16" text-anchor="middle">1</text>
+    <rect x="637" y="204" width="103" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="688.5" y="224" font-size="16" text-anchor="middle">0.939</text>
+    <rect x="740" y="204" width="91" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="785.5" y="224" font-size="16" text-anchor="middle">6.10</text>
+    <rect x="20" y="233" width="119" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="79.5" y="253" font-size="16" text-anchor="middle">P-1-R2</text>
+    <rect x="139" y="233" width="116" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="197" y="253" font-size="16" text-anchor="middle">1</text>
+    <rect x="255" y="233" width="93" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="301.5" y="253" font-size="16" text-anchor="middle">1</text>
+    <rect x="348" y="233" width="93" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="394.5" y="253" font-size="16" text-anchor="middle">2</text>
+    <rect x="441" y="233" width="93" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="487.5" y="253" font-size="16" text-anchor="middle">1.942</text>
+    <rect x="534" y="233" width="103" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="585.5" y="253" font-size="16" text-anchor="middle">1</text>
+    <rect x="637" y="233" width="103" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="688.5" y="253" font-size="16" text-anchor="middle">0.942</text>
+    <rect x="740" y="233" width="91" height="29" fill="#fff" stroke="#cad8ce"/>
+    <text x="785.5" y="253" font-size="16" text-anchor="middle">5.80</text>
+    <rect x="20" y="262" width="119" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="79.5" y="282" font-size="16" text-anchor="middle">P-1-R3</text>
+    <rect x="139" y="262" width="116" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="197" y="282" font-size="16" text-anchor="middle">1</text>
+    <rect x="255" y="262" width="93" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="301.5" y="282" font-size="16" text-anchor="middle">1</text>
+    <rect x="348" y="262" width="93" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="394.5" y="282" font-size="16" text-anchor="middle">2</text>
+    <rect x="441" y="262" width="93" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="487.5" y="282" font-size="16" text-anchor="middle">1.942</text>
+    <rect x="534" y="262" width="103" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="585.5" y="282" font-size="16" text-anchor="middle">1</text>
+    <rect x="637" y="262" width="103" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="688.5" y="282" font-size="16" text-anchor="middle">0.942</text>
+    <rect x="740" y="262" width="91" height="29" fill="#f4f8f5" stroke="#cad8ce"/>
+    <text x="785.5" y="282" font-size="16" text-anchor="middle">5.80</text>
+    <text x="20" y="314" font-size="15" fill="#41534a">M0 = empty dish. M1 and M2 = dish with sample before and after drying.</text>
+  </g>
+</svg>
