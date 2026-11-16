@@ -2,7 +2,7 @@
 
 How do container type and silica gel affect dry cat food while it waits to be dispensed? I compared plastic and aluminum foil containers with 0, 1, 2, or 4 g of silica gel. Each of the eight groups had three independent containers with 30 g of cat food each. The question grew out of building an automatic feeder with Shuoqi Yang and Shaoxuan Xiong.
 
-[Full experiment report (PDF)](reports/cat-food-storage-experiment.pdf) · [Report data tables (CSV)](reports/cat-food-storage-report-tables.csv) · [Results](#results) · [Experiment photos](#experiment-photos) · [Feeder prototype and CAD](#prototype-and-mechanism)
+[Full experiment report (PDF)](reports/cat-food-storage-experiment.pdf) · [Report data tables (CSV)](reports/cat-food-storage-report-tables.csv) · [Results and chart](#results) · [Experiment photos](#experiment-photos) · [Feeder prototype and CAD](#prototype-and-mechanism)
 
 ## What I measured
 
@@ -14,7 +14,7 @@ How do container type and silica gel affect dry cat food while it waits to be di
 
 **On Day 21, foil with 4 g of silica gel averaged 4.50% loss on drying, compared with 7.60% for foil without silica gel.**
 
-![Loss on drying by container type and silica gel dose on Days 0, 14, and 21, with sample standard deviation error bars](assets/loss-on-drying.svg)
+<img src="assets/loss-on-drying.svg" width="900" alt="Loss on drying by container type and silica gel dose on Days 0, 14, and 21, with sample standard deviation error bars">
 
 *Bars show group means and error bars show one sample standard deviation on either side of the mean (3 independent containers per group).*
 
@@ -47,12 +47,17 @@ Shuoqi Yang led the mechanical design and fabrication and revised the outlet and
 
 ## Experiment photos
 
-<a href="assets/storage-experiment-containers.jpg"><img src="assets/storage-experiment-containers.jpg" alt="Lidded containers arranged for the cat-food storage experiment" width="360"></a>
-
-*Containers used in the storage experiment.*
-
-<a href="assets/cat-food-hexane-extraction.jpg"><img src="assets/cat-food-hexane-extraction.jpg" alt="Test tubes holding cat-food samples during hexane extraction" width="480"></a>
-
-*Cat-food samples during hexane extraction for the iodine spot test.*
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <a href="assets/storage-experiment-containers.jpg"><img src="assets/storage-experiment-containers.jpg" alt="Lidded containers arranged for the cat-food storage experiment" width="135"></a><br>
+      <sub>Storage containers</sub>
+    </td>
+    <td align="center" valign="top">
+      <a href="assets/cat-food-hexane-extraction.jpg"><img src="assets/cat-food-hexane-extraction.jpg" alt="Test tubes holding cat-food samples during hexane extraction" width="240"></a><br>
+      <sub>Hexane extraction for the iodine spot test</sub>
+    </td>
+  </tr>
+</table>
 
 [Back to my GitHub profile](https://github.com/jw3422951-ops)
