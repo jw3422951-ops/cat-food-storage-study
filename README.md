@@ -12,7 +12,11 @@ How do container type and silica gel affect dry cat food while it waits to be di
 
 ## Results
 
-Silica gel reduced loss on drying in both container types on Day 14. By Day 21, the reduction relative to the control persisted only in foil. The 1 g and 2 g foil groups had higher iodine spot signals than the foil control on Day 21, and their differences from the plastic control were inconclusive. Foil had lower pH than plastic at 0 g and 4 g that day. Next, I would test foil with silica gel in the feeder's storage compartment under different humidity conditions.
+**On Day 21, foil with 4 g of silica gel averaged 4.50% loss on drying, compared with 7.60% for foil without silica gel.**
+
+![Loss on drying by container type and silica gel dose on Days 0, 14, and 21, with sample standard deviation error bars](assets/loss-on-drying.svg)
+
+*Bars show group means and error bars show one sample standard deviation on either side of the mean (3 independent containers per group).*
 
 **Day 21 group means** (3 independent containers per group)
 
@@ -23,7 +27,7 @@ Silica gel reduced loss on drying in both container types on Day 14. By Day 21, 
 | 2 g | 7.27% | 6.67% | 4,787 | 5,787 |
 | 4 g | 7.10% | **4.50%** | 4,564 | 5,345 |
 
-[LoD chart with error bars for Days 0, 14, and 21](assets/loss-on-drying.svg)
+Silica gel reduced loss on drying in both container types on Day 14. By Day 21, the reduction relative to the control persisted only in foil. The 1 g and 2 g foil groups had higher iodine spot signals than the foil control on Day 21, and their differences from the plastic control were inconclusive. Foil had lower pH than plastic at 0 g and 4 g that day. Next, I would test foil with silica gel in the feeder's storage compartment under different humidity conditions.
 
 ## Prototype and mechanism
 
